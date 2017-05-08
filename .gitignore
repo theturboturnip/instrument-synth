@@ -137,3 +137,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.py~
+Piano/RAW/150430_0177.wav
+*.wav
